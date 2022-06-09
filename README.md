@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/drive/u/0/my-drive)]
+<img align="centre" alt="Coding" src="./banner.gif">
 
 <h1 align="center">Hi 👋, I'm Ronak Jaiswal</h1>
 <h3 align="center">A Neophyte Android Developer</h3>
